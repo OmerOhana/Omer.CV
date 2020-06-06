@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Omer.CV/static/css/main.431f63b6.chunk.css",
+    "main.js": "/Omer.CV/static/js/main.aef3653b.chunk.js",
+    "main.js.map": "/Omer.CV/static/js/main.aef3653b.chunk.js.map",
+    "runtime-main.js": "/Omer.CV/static/js/runtime-main.af5bd195.js",
+    "runtime-main.js.map": "/Omer.CV/static/js/runtime-main.af5bd195.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Omer.CV/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.08c7764b.chunk.js": "/Omer.CV/static/js/2.08c7764b.chunk.js",
+    "static/js/2.08c7764b.chunk.js.map": "/Omer.CV/static/js/2.08c7764b.chunk.js.map",
+    "index.html": "/Omer.CV/index.html",
+    "precache-manifest.5d39153a4a6305a73229317ca92540fe.js": "/Omer.CV/precache-manifest.5d39153a4a6305a73229317ca92540fe.js",
+    "service-worker.js": "/Omer.CV/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Omer.CV/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.431f63b6.chunk.css.map": "/Omer.CV/static/css/main.431f63b6.chunk.css.map",
+    "static/js/2.08c7764b.chunk.js.LICENSE": "/Omer.CV/static/js/2.08c7764b.chunk.js.LICENSE",
+    "static/media/blockchainpic.jpg": "/Omer.CV/static/media/blockchainpic.52d6d513.jpg",
+    "static/media/omer.jpg": "/Omer.CV/static/media/omer.4104592d.jpg",
+    "static/media/index.css": "/Omer.CV/static/media/wallpaper.952fecac.jpg",
+    "static/media/‏‏EarthQuakeWatcher.PNG": "/Omer.CV/static/media/‏‏EarthQuakeWatcher.708e2239.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af5bd195.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.08c7764b.chunk.js",
+    "static/css/main.431f63b6.chunk.css",
+    "static/js/main.aef3653b.chunk.js"
+  ]
+}
