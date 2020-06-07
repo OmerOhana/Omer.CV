@@ -12,8 +12,8 @@
 }
 
 .websiteBtn {
-  color: #30c9b4;
-  border: 2px solid #30c9b4;
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
   transition: 1s;
   display: inline-block;
   position: relative;
@@ -24,8 +24,8 @@
   margin: 1.5em 0.5em;
 }
 .websiteBtn:hover {
-  color: #fff;
-  background: #30c9b4;
+  color: #a8091e;
+  background-color: rgb(0, 0, 0);
   text-decoration: none;
   transform: scale(1.07);
 }

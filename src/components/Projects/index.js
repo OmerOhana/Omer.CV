@@ -14,7 +14,7 @@ const Projects = () => {
   return (
     <div className='projects'>
       <div className='container-fluid'>
-        <h2 className='projects-title'>Projects</h2>
+        <h2 className='projects-title'>Main Projects</h2>
         <Project
           desc={CryptoContracts}
           img={BlockChain}

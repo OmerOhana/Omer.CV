@@ -10,7 +10,7 @@ const About = () => {
         <div className='row'>
           <div className='col-12 col-lg-7 about-text'>
             <p>
-            Hi my name is Omar Ohana - now completing BSc in Software Engineering studies and looking
+            Now completing BSc in Software Engineering studies and looking
             for a new challenge where I can show my skills and acquire new tools every day in work and self-learning.
             In my studies I specialized in Web development, Java, React, and Blockchain programming.
             </p>
