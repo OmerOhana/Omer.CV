@@ -26,7 +26,7 @@ const About = () => {
           <a
             target='_blang'
             className='resumeBtn'
-            href='https://drive.google.com/file/d/1sTGIZgrc_jqDxzrcyVs5sRGw0kVu-nFt/view'
+            href='https://drive.google.com/file/d/1lW-JzY2x740UuDShDPl-DoLV12RhggLD/view?usp=sharing'
           >
             View Resume
           </a>
