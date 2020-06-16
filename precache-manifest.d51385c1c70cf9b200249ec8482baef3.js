@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "773dffe402a66868de8e1b1407baefba",
+    "revision": "1748909ec0fff38206bd170363010734",
     "url": "/Omer.CV/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Omer.CV/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "7539aa5d84703dd12b7f",
+    "revision": "550891483494f684dce1",
     "url": "/Omer.CV/static/css/main.6b12472b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Omer.CV/static/js/2.08c7764b.chunk.js.LICENSE"
   },
   {
-    "revision": "7539aa5d84703dd12b7f",
-    "url": "/Omer.CV/static/js/main.0093b474.chunk.js"
+    "revision": "550891483494f684dce1",
+    "url": "/Omer.CV/static/js/main.22476bfb.chunk.js"
   },
   {
     "revision": "a6d928b1226fbc0c3d29",
