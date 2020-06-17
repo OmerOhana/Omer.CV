@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Omer.CV/precache-manifest.d51385c1c70cf9b200249ec8482baef3.js"
+  "/Omer.CV/precache-manifest.b88a6e9fc69b4261529965961141c12f.js"
 );
 
 self.addEventListener('message', (event) => {
