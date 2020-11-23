@@ -10,10 +10,9 @@ const Header = () => {
       <div className='header-title'>
         <div className='header-text'>
           <h1 className='opening-text'>
-            Hey, my name is{' '}
             <span className='name-text-color'> Omer Ohana</span>
             <br />
-            A software engineer whos looking for his next challenge
+            FullStack engineer whos looking for his next challenge
           </h1>
           <a className='headerBtn' href='#about'>
             See More

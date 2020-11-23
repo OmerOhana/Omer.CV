@@ -1,6 +1,6 @@
 .my-img {
   height: auto;
-  border-radius: 0.5em;
+  border-radius: 10em;
   transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
@@ -17,7 +17,7 @@
 
 .about-wrapper {
   background-image: url('../../assets/wallpaper.jpg');
-  background-position: center center;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;

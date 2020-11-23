@@ -10,9 +10,12 @@ const About = () => {
         <div className='row'>
           <div className='col-12 col-lg-7 about-text'>
             <p>
-            Now completing BSc in Software Engineering studies and looking
-            for a new challenge where I can show my skills and acquire new tools every day in work and self-learning.
-            In my studies I specialized in Web development, Java, React, and Blockchain programming.
+            FullStack developer at "Just You" Startup company. Looking for a new challenge where I can show my skills and acquire new tools every day in work and by self-learning.
+            In my studies I specialized in: 
+            <br/>
+            1) Web development with React and Java
+            <br/>
+            2) Mobile development with React native and Node.js
             </p>
           </div>
           <div className='col-12 col-lg-4'>
@@ -26,7 +29,7 @@ const About = () => {
           <a
             target='_blang'
             className='resumeBtn'
-            href='https://drive.google.com/file/d/12jGSA2ZanC-bqBiy_w5mzn6CTLTmFWpt/view?usp=sharing'
+            href='https://drive.google.com/file/d/1XX6jugV0xMQpyD1aZuysq1XOZDdhWhHf/view?usp=sharing'
           >
             View Resume
           </a>
