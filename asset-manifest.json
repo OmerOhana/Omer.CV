@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Omer.CV/static/css/main.fc2ebc31.chunk.css",
-    "main.js": "/Omer.CV/static/js/main.1816c82d.chunk.js",
-    "main.js.map": "/Omer.CV/static/js/main.1816c82d.chunk.js.map",
+    "main.js": "/Omer.CV/static/js/main.3936af32.chunk.js",
+    "main.js.map": "/Omer.CV/static/js/main.3936af32.chunk.js.map",
     "runtime-main.js": "/Omer.CV/static/js/runtime-main.af5bd195.js",
     "runtime-main.js.map": "/Omer.CV/static/js/runtime-main.af5bd195.js.map",
     "static/css/2.47e06e2e.chunk.css": "/Omer.CV/static/css/2.47e06e2e.chunk.css",
     "static/js/2.08c7764b.chunk.js": "/Omer.CV/static/js/2.08c7764b.chunk.js",
     "static/js/2.08c7764b.chunk.js.map": "/Omer.CV/static/js/2.08c7764b.chunk.js.map",
     "index.html": "/Omer.CV/index.html",
-    "precache-manifest.9314b7958f80b094b45e6a3058899fd2.js": "/Omer.CV/precache-manifest.9314b7958f80b094b45e6a3058899fd2.js",
+    "precache-manifest.c5917207b158a74e3ed1e5b41f8c84c4.js": "/Omer.CV/precache-manifest.c5917207b158a74e3ed1e5b41f8c84c4.js",
     "service-worker.js": "/Omer.CV/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Omer.CV/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.fc2ebc31.chunk.css.map": "/Omer.CV/static/css/main.fc2ebc31.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.08c7764b.chunk.js",
     "static/css/main.fc2ebc31.chunk.css",
-    "static/js/main.1816c82d.chunk.js"
+    "static/js/main.3936af32.chunk.js"
   ]
 }
