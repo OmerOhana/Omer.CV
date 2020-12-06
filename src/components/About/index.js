@@ -10,12 +10,14 @@ const About = () => {
         <div className='row'>
           <div className='col-12 col-lg-7 about-text'>
             <p>
-            FullStack developer at "Just You" Startup company. Looking for a new challenge where I can show my skills and acquire new tools every day in work and by self-learning.
+            FullStack lead developer at "Just You" Startup company. Looking for a new challenge where I can show my skills and acquire new tools every day in work and by self-learning.
             In my studies I specialized in: 
             <br/>
-            1) Web development with React and Java
+            1) Web development with React
             <br/>
-            2) Mobile development with React native and Node.js
+            2) Mobile development with React native
+            <br/>
+            3) Server with Node.js & Express
             </p>
           </div>
           <div className='col-12 col-lg-4'>
@@ -29,7 +31,7 @@ const About = () => {
           <a
             target='_blang'
             className='resumeBtn'
-            href='https://drive.google.com/file/d/1XX6jugV0xMQpyD1aZuysq1XOZDdhWhHf/view?usp=sharing'
+            href='https://drive.google.com/file/d/1j9p9UfYxnzLtkalVLX-n_T1bI-45cagx/view?usp=sharing'
           >
             View Resume
           </a>

@@ -12,7 +12,7 @@ const Header = () => {
           <h1 className='opening-text'>
             <span className='name-text-color'> Omer Ohana</span>
             <br />
-            FullStack engineer whos looking for his next challenge
+            Software engineer
           </h1>
           <a className='headerBtn' href='#about'>
             See More
